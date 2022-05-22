@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vassiliki, some people also call me Vassy or Vasso(not the 🥛)
+### Hi there 👋 I'm Vassiliki, some people also call me Vassy or Vasso(no este 🥛)
 
 🌈 I am a Software Engineer student of 42 in Paris and I'm pursuing a master in UI/UX design. My goal is to become a "good" full stack developer🥞 not only in skills but also ethical. Yes I am a dreamer, but I'm not the only one 😉
 
