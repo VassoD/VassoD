@@ -8,4 +8,4 @@
 
 🔧 These are some of my tools:  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,git,github,c,vscode)](https://skillicons.dev)
