@@ -8,4 +8,4 @@
 
 🔧 These are some of the technologies and programming languages I use:  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,git,github,c,python,vscode,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,git,github,c,python,vscode,ps)](https://skillicons.dev)
