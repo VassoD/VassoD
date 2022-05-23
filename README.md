@@ -7,7 +7,7 @@ my friends also call me Vasso or Vassy.
 
 🎨 I love creating content that is functional and aesthetically pleasing towards the best user experience.
 
-🔧 These are some of the programming languages, technologies and tools I use:  
+🔧 These are some of the programming languages and tools I use:  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,git,github,c,python,vscode,ps)](https://skillicons.dev)
 
