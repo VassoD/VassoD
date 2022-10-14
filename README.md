@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Vassiliki
 they also call me Vasso or Vassy. 
 
-🌈 I am a Computer Science student of 42 school in Paris and for this year I will be doing my Master's degree in UI/UX design in Universite Sorbonne Paris Nord. My goal is to become a "good" full stack designer🥞 not only in skills but also ethical, willing to contribute for a sustainable impact. Yes I am a dreamer, but I'm not the only one..😉
+🌈 I am a Computer Science student of 42 school in Paris and for this year I will be doing my Master's degree in UI/UX design in Universite Sorbonne Paris Nord. My goal is to develop my coding and design skills for the best user experience, willing to contribute for a sustainable impact. Yes I am a dreamer, but I'm not the only one..😉
 
 ✨ You can see some of my work here, or by visiting my [portfolio](https://vdor.me).
 
