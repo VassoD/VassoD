@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Vassiliki
 People also call me Vasso or Vassy. 
 
-🌈 I am master's student in University of Sorbonne Paris Nord for Digital Creation and a Computer Science student in school 42 Paris. My goal is to continuously develop my coding and design skills for the best user experience, willing to contribute for a sustainable impact. Yes I am a dreamer, but I'm not the only one..😉
+🌈 I am master's student in University of Sorbonne Paris Nord in Digital Creation, Multimedia and Internet Interface Design and a Computer Science student in school 42 Paris. My goal is to continuously develop my coding and design skills for the best user experience, willing to contribute for a sustainable impact. Yes I am a dreamer, but I'm not the only one..😉
 
 ✨ You can see some of my work here, or by visiting my [portfolio](https://vassod.github.io).
 
