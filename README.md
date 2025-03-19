@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Vasiliki Doropoulou
+👋 Hey, I’m Vassiliki!
 
-**👩🏻‍💻 Front-End Developer | AI Enthusiast | Open Source Contributor**  
-
-I’m passionate about building intuitive and scalable web and mobile applications, leveraging AI to enhance user experiences and streamline development workflows.
+I build intuitive, scalable web and mobile apps—and when I’m not doing that, I’m probably figuring out how to make AI do half the work for me. 😆 I love creating smooth user experiences, automating stuff, and pushing the limits of what tech can do.
