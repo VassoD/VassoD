@@ -1,3 +1,3 @@
 👋 Hey, I’m Vassiliki!
 
-I build intuitive, scalable web and mobile apps—and when I’m not doing that, I’m probably figuring out how to make AI do half the work for me. 😆 I love creating smooth user experiences, automating stuff, and pushing the limits of what tech can do.
+Software engineer specializing in responsive, user-centered applications across web and mobile platforms. I thrive at the intersection of clean code and intuitive design, building solutions that scale beautifully and feel effortless to use. By day, I'm crafting digital experiences; by night, I'm exploring how AI can supercharge development workflows.
